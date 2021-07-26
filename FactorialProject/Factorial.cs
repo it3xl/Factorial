@@ -10,7 +10,7 @@ namespace FactorialProject
     public class Factorial
     {
         /// <summary>
-        /// It is a naive implementation of Factorial by the Linq (tale recursion here I think).
+        /// It is a naive implementation of Factorial by the Linq (tale recursion is here, I think).
         /// </summary>
         /// <param name="n"></param>
         /// <returns></returns>
